@@ -1,0 +1,5 @@
+title: $:/plugins/brooksn/s3-saver/readme
+
+Set your s3 bucket settings in [[$:/plugins/brooksn/s3-saver/settings]]
+
+You must save your wiki manually after the options are set for the first time.

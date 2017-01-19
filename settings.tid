@@ -1,0 +1,8 @@
+title: $:/plugins/brooksn/s3-saver/settings
+
+"""
+accessKeyId: AKIAIOSFODNN7EXAMPLE
+secretAccessKey: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+bucket: my-tiddlywiki-bucket
+fileName: awt.html
+"""

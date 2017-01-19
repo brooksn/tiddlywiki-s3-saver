@@ -1,0 +1,10 @@
+{
+    "title": "$:/plugins/brooksn/s3-saver",
+    "description": "s3-saver",
+    "author": "brooksn",
+    "version": "1.0.0",
+    "core-version": ">=5.0.8",
+    "source": "https://github.com/brooksn/tw-s3-saver",
+    "plugin-type": "plugin",
+    "list": "readme"
+}
